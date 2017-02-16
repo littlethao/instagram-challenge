@@ -57,5 +57,3 @@ $ rails s
 * Test suite with RSpec-rails, Capybara and gem Shoulda
 
 * PostgreSQL for database set up
-
-* Services (job queues, cache servers, search engines, etc.)
